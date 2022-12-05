@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Corona</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">COVID19</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Corona Pandemic Information and Awareness</string>
+    <string name="nav_header_subtitle">For more info visit mohfw.gov.in</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_faq">FAQ</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="faqdetails">
+        Exposing yourself to the sun or to temperatures higher than 25C degrees DOES NOT prevent the coronavirus disease (COVID-19)
+         MB_sun exposure \n
+
+You can recover from the coronavirus disease (COVID-19). Catching the new coronavirus DOES NOT mean you will have it for life.
+
+        \n\n\n
+        Being able to hold your breath for 10 seconds or more without coughing or feeling discomfort DOES NOT mean you are free from the coronavirus disease (COVID-19) or any other lung disease.
+        
+        \n\n\n
+
+Drinking alcohol does not protect you against COVID-19 and can be dangerous
+
+        \n\n\n
+        COVID-19 virus can be transmitted in areas with hot and humid climates
+\n\n\n
+        Cold weather and snow CANNOT kill the new coronavirus.
+\n\n\n
+        Taking a hot bath does not prevent the new coronavirus disease
+\n\n\n
+        The new coronavirus CANNOT be transmitted through mosquito bites.
+\n\n\n
+        Hand dryers are not effective in killing the 2019-nCoV. To protect yourself against the new coronavirus, you should frequently clean your hands with an alcohol-based hand rub or wash them with soap and water. Once your hands are cleaned, you should dry them thoroughly by using paper towels or a warm air dryer.
+\n\n\n
+        Spraying alcohol or chlorine all over your body will not kill viruses that have already entered your body
+\n\n\n
+        
+
+
+
+
+    </string>
+</resources>
